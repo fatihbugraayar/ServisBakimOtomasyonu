@@ -203,15 +203,7 @@ Bu proje **MIT Lisansı** ile lisanslanmıştır - detaylar için [LICENSE](LICE
 
 **Özet:** Ticari dahil her türlü kullanım serbesttir. Kaynak kodu değiştirilebilir ve dağıtılabilir.
 
----
 
-## 💬 İletişim & Destek
-
-- **Geliştirici:** [@fatihbugraayar](https://github.com/fatihbugraayar)
-- **Issues:** [GitHub Issues](https://github.com/fatihbugraayar/ServisBakimOtomasyonu/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/fatihbugraayar/ServisBakimOtomasyonu/discussions)
-
----
 
 ## 🌟 Destekleyin
 
